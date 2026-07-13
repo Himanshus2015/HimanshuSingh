@@ -86,7 +86,7 @@ document.querySelectorAll("section").forEach(section => {
 // ======================================
 // COUNTER ANIMATION
 // ======================================
-
+/*
 const counters = document.querySelectorAll(".card h3");
 
 const speed = 40;
@@ -144,7 +144,7 @@ counters.forEach(counter => {
     animate();
 
 });
-
+*/
 
 // ======================================
 // ACTIVE NAVIGATION
